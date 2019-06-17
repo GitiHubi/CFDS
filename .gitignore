@@ -7,3 +7,11 @@ __pycache__
 .DS_Store
 \#*#
 .#*
+
+
+lab_01/.ipynb_checkpoints
+lab_02/.ipynb_checkpoints
+lab_03/.ipynb_checkpoints
+lab_04/.ipynb_checkpoints
+lab_05/.ipynb_checkpoints
+lab_06/.ipynb_checkpoints
