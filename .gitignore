@@ -1,0 +1,9 @@
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.DS_Store
+\#*#
+.#*
