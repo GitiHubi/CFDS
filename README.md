@@ -7,3 +7,5 @@
 **Lab 02:** "Fundamentals of Python Programming" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_02/cfds_colab_02.ipynb))
 
 **Lab 03:** "Supervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_03/cfds_colab_03.ipynb))
+
+**Lab 04:** "Unsupervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
