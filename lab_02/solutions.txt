@@ -1,0 +1,110 @@
+########################################################################
+
+### Exercise 1:
+
+multi = []
+for i in range(0, 10):
+    multi.append(i * 10)
+    
+print(multi)
+
+### Exercise 2:
+    
+
+########################################################################
+
+### Exercise 1: 
+
+for x in range(0, 7):
+    if x == 3 or x == 6:
+        print('forbidden')
+    else:
+        print(x)
+
+### Exercise 2:
+
+for x in range(0, 100):
+    if (x%7==0) and (x%5==0):
+        print('{} is a multple of both 7 and 5'.format(str(x)))
+
+
+########################################################################
+
+### Exercise 1:
+
+def string_length(str1):  
+    count = 0  
+    for char in str1:  
+        count += 1  
+    return count 
+
+print(string_length('w3resource.com')) 
+
+### Exercise 2:
+
+def max_num_in_list( list ):  
+    max = list[ 0 ]  
+    for a in list:  
+        if a > max:  
+            max = a  
+    return max  
+
+print(max_num_in_list([1, 2, -8, 0]))  
+
+### Exercise 3:
+
+def char_frequency(str1):
+    dict = {}  
+    for n in str1:  
+        keys = dict.keys()  
+        if n in keys:  
+            dict[n] += 1  
+        else:  
+            dict[n] = 1  
+    return dict  
+
+print(char_frequency('Happy Halloween'))  
+
+### Exercise 4:
+
+def find_longest_word(words_list):  
+    word_len = []  
+    for n in words_list:  
+        word_len.append((len(n), n))  
+    word_len.sort()  
+    return word_len[-1][1]
+
+print(find_longest_word(["PHP", "Exercises", "Backend"])) 
+
+########################################################################
+
+
+import numpy as np
+
+x = np.random.random((5,5))
+print("Original Array:")
+print(x) 
+xmin, xmax = x.min(), x.max()
+print("Minimum and Maximum Values:")
+print(xmin, xmax)
+
+
+import numpy as np
+
+x = np.random.rand(10, 4)
+print("Original array: ")
+print(x)
+y= x[:5, :]
+print("First 5 rows of the above array:")
+print(y)
+
+
+import numpy as np
+
+x= np.random.random((3,3))
+print("Original Array:")
+print(x)
+xmax, xmin = x.max(), x.min()
+x = (x - xmin)/(xmax - xmin)
+print("After normalization:")
+print(x)
