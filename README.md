@@ -14,6 +14,8 @@ A series of interactive labs we prepared for the Chartered Financial Data Scient
 
 **Lab 04:** "Unsupervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
 
+**Lab 05:** "Supervised Deep Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
+
 
 ## Questions?
 
