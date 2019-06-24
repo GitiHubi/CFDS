@@ -4,7 +4,7 @@
 
 A series of interactive lab notebooks we prepared for the Chartered Financial Data Scientist Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
-This is currently work in progress so expect minor errors and some rough edges. 
+This is currently work in progress so expect minor errors and some rough edges ;)
 
 ## Running the Notebook
 
