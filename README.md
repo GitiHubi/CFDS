@@ -16,10 +16,10 @@ This is currently work in progress so expect minor errors and some rough edges.
 
 **Lab 04:** "Unsupervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
 
-**Lab 05:** "Supervised Deep Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
+**Lab 05:** "Supervised Deep Learning - ANNs" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
 
 
-**Lab 07:** "Supervised Deep Learning - LSTMS" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_07/cfds_colab_07.ipynb))
+**Lab 07:** "Supervised Deep Learning - LSTMs" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_07/cfds_colab_07.ipynb))
 
 
 ## Questions?
