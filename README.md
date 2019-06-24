@@ -17,6 +17,9 @@ A series of interactive labs we prepared for the Chartered Financial Data Scient
 **Lab 05:** "Supervised Deep Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
 
 
+**Lab 07:** "Supervised Deep Learning - LSTMS" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_07/cfds_colab_07.ipynb))
+
+
 ## Questions?
 
 Please feel free to get in touch by opening an issue report, submitting a pull request, or sending us an email.
