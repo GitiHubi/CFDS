@@ -20,7 +20,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 06:** "Supervised Deep Learning - CNNs" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_06/cfds_colab_06.ipynb))
 
-**Lab 07:** "Supervised Deep Learning - LSTMs" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_07/cfds_colab_07.ipynb))
+**Lab 07:** "Supervised Deep Learning - LSTMs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_07/cfds_colab_07.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFDS/blob/master/lab_07/cfds_colab_07_gpu.ipynb))
 
 
 ## Questions?
